@@ -1,0 +1,21 @@
+id;nome;valor_unitario;segmento
+1;Smartphone;2499;Tecnologia
+2;Fone de ouvido;249;Tecnologia
+3;Cooktop;557.1;Eletrodomésticos
+4;Conjunto de panelas;554;Casa
+5;Secador;89.9;Eletroportatéis
+6;Televisão;2899;Tecnologia
+7;Geladeira;2699;Eletrodomésticos
+8;Máquina de lavar;2999.99;Eletrodomésticos
+9;Batedeira;229.99;Eletroportatéis
+10;Aspirador de pó;129.9;Eletroportatéis
+11;Notebook;3299;Tecnologia
+12;Purificador;549;Eletroportatéis
+13;Cafeteira;399.9;Eletroportatéis
+14;Ar condicionado;2599;Eletrodomésticos
+15;Ventilador;229;Casa
+16;Mesa;239;Móveis
+17;Sapateira;89.9;Móveis
+18;Gaveteiro;187.9;Móveis
+19;Cadeira;258.22;Casa
+20;Tablet;569.99;Tecnologia

@@ -48,7 +48,9 @@ Para responder as perguntas abaixo, importe o arquivo vendas_buymore.xlsx para o
 3. Com base nos dados que possui e nas análises possíveis, o que sugere que a Buy More faça? Justifique.
 
 	a) A Buy More deve expandir sua operação para o canal online ou abrir novas unidades? 
+	
 	b) Existe algum segmento de produto que a Buy More deve focar? 
+	
 	c) Que ações a empresa pode tomar para aumentar seu faturamento para 2021 considerando os anos anteriores? 
 
 > *Obs.:*

@@ -46,9 +46,12 @@ Para responder as perguntas abaixo, importe o arquivo vendas_buymore.xlsx para o
 1. Considerando os Estados em que atua, onde se encontra a sua melhor performance em termos de faturamento x vendas? E considerando os produtos?
 2. Analisando vendas x faturamento x ticket médio x custo, como está o desempenho do quadro de funcionários atual?
 3. Com base nos dados que possui e nas análises possíveis, o que sugere que a Buy More faça? Justifique.
-	a) A Buy More deve expandir sua operação para o canal online ou abrir novas unidades?
-	b) Existe algum segmento de produto que a Buy More deve focar?
-	c) Que ações a empresa pode tomar para aumentar seu faturamento para 2021 considerando os anos anteriores?
+
+	a) A Buy More deve expandir sua operação para o canal online ou abrir novas unidades? 
+	
+	b) Existe algum segmento de produto que a Buy More deve focar? 
+	
+	c) Que ações a empresa pode tomar para aumentar seu faturamento para 2021 considerando os anos anteriores? 
 
 > *Obs.:*
 > Coluna “meio” igual a 0 = venda em unidade física;

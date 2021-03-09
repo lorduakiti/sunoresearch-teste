@@ -4,8 +4,8 @@ SELECT
   e.Name as "Employee",
   e.Salary as "Salary"
 FROM Employee         e
-RIGHT JOIN Departament d on d.Id = e.DepartmentId
-RIGHT JOIN (
+JOIN Departament d on d.Id = e.DepartmentId
+JOIN (
   SELECT
     DepartmentId,    
     max(Salary) as MaxSalary

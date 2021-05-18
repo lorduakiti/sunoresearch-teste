@@ -1,4 +1,4 @@
-# sunoresearch-teste
+# Suno Research
 Teste Técnico - [Analista de Dados](https://jobs.solides.com/sunoresearch/vaga/56728) - [Suno Research](https://www.suno.com.br/)
 
 ## Objetivo

@@ -1,10 +1,19 @@
 # Suno Research
 Teste Técnico - [Analista de Dados](https://jobs.solides.com/sunoresearch/vaga/56728) - [Suno Research](https://www.suno.com.br/)
 
-## Objetivo
+## Objetivo:
 Este teste técnico se concentra em avaliar o raciocínio lógico e conhecimento em SQL e Power BI do candidato(a) para resolver os exercícios expostos abaixo.
 
-## Atividade 1
+## Resultados:
+[Apresentação de Respostas](/UakitiPires.pdf) 
+
+[Resultado da Atividade 1](/Atividade 1/README.md) 
+
+[Resultado da Atividade 2](/Atividade 2/atividade_2_analises.pdf) 
+
+
+
+## Atividade 1:
 ### Problema: Salário mais alto do departamento.
 
 Recomendamos você utilizar o [SQLFiddle](http://sqlfiddle.com) e PostgreSQL como engine de SQL para testar suas consultas.
@@ -34,7 +43,7 @@ Saída esperada:
 | Sales | Henry | 80000 |
 
 
-## Atividade 2
+## Atividade 2:
 
 A loja varejista Buy More atua há 3 anos na região Sudeste do país e recentemente conseguiu 10 milhões em investimentos. A empresa quer expandir, mas não sabe qual caminho seguir, dentre suas possibilidades estão abrir novas unidades ou migrar ainda mais sua operação para o canal online. Por conta disso, você foi contratado(a) para prestar consultoria, primeiramente analisando o desempenho atual da empresa para então sugerir a melhor decisão possível para a expansão.
 

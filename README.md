@@ -7,9 +7,9 @@ Este teste técnico se concentra em avaliar o raciocínio lógico e conhecimento
 ## Resultados:
 [Apresentação de Respostas](/UakitiPires.pdf) 
 
-[Resultado da Atividade 1](/Atividade 1/README.md) 
+[Resultado da Atividade 1](/Atividade%201/README.md) 
 
-[Resultado da Atividade 2](/Atividade 2/atividade_2_analises.pdf) 
+[Resultado da Atividade 2](/Atividade%202/atividade_2_analises.pdf) 
 
 
 
@@ -18,7 +18,7 @@ Este teste técnico se concentra em avaliar o raciocínio lógico e conhecimento
 
 Recomendamos você utilizar o [SQLFiddle](http://sqlfiddle.com) e PostgreSQL como engine de SQL para testar suas consultas.
 
-A tabela "Employee" contém todos os funcionários. Todo funcionário tem um ID, um salário e também há uma coluna para o ID do departamento.
+A tabela Employee contém todos os funcionários. Todo funcionário tem um ID, um salário e também há uma coluna para o ID do departamento.
 | Id | Name | Salary | DepartmentId |
 | ------ | ------ | ------ | ------ |
 | 1 | Joe | 70000 | 1 |
@@ -27,7 +27,7 @@ A tabela "Employee" contém todos os funcionários. Todo funcionário tem um ID,
 | 4 | Sam | 60000 | 2 |
 | 5 | Max | 90000 | 1 |
 
-A tabela "Departamento" contém todos os departamentos da empresa.
+A tabela Departamento contém todos os departamentos da empresa.
 | Id | Name |
 | ------ | ------ |
 | 1 | IT |
